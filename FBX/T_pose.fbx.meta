@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 336e9cd3eba7cc9489db1f755a766ffd
+timeCreated: 1632636043
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Blake
+    100002: Character_Ctrl:ChestEndEffector
+    100004: Character_Ctrl:ChestOriginEffector
+    100006: Character_Ctrl:Head
+    100008: Character_Ctrl:HeadEffector
+    100010: Character_Ctrl:Hips
+    100012: Character_Ctrl:HipsEffector
+    100014: Character_Ctrl:LeftAnkleEffector
+    100016: Character_Ctrl:LeftArm
+    100018: Character_Ctrl:LeftElbowEffector
+    100020: Character_Ctrl:LeftFoot
+    100022: Character_Ctrl:LeftForeArm
+    100024: Character_Ctrl:LeftHand
+    100026: Character_Ctrl:LeftHipEffector
+    100028: Character_Ctrl:LeftKneeEffector
+    100030: Character_Ctrl:LeftLeg
+    100032: Character_Ctrl:LeftShoulder
+    100034: Character_Ctrl:LeftShoulderEffector
+    100036: Character_Ctrl:LeftUpLeg
+    100038: Character_Ctrl:LeftWristEffector
+    100040: Character_Ctrl:Neck
+    100042: Character_Ctrl:Reference
+    100044: Character_Ctrl:RightAnkleEffector
+    100046: Character_Ctrl:RightArm
+    100048: Character_Ctrl:RightElbowEffector
+    100050: Character_Ctrl:RightFoot
+    100052: Character_Ctrl:RightForeArm
+    100054: Character_Ctrl:RightHand
+    100056: Character_Ctrl:RightHipEffector
+    100058: Character_Ctrl:RightKneeEffector
+    100060: Character_Ctrl:RightLeg
+    100062: Character_Ctrl:RightShoulder
+    100064: Character_Ctrl:RightShoulderEffector
+    100066: Character_Ctrl:RightUpLeg
+    100068: Character_Ctrl:RightWristEffector
+    100070: Character_Ctrl:Spine
+    100072: Character_Ctrl:Spine1
+    100074: Character_Ctrl:Spine2
+    100076: eyes
+    100078: inner_mouth
+    100080: mixamorig:Head
+    100082: mixamorig:HeadTop_End
+    100084: mixamorig:Hips
+    100086: mixamorig:LeftArm
+    100088: mixamorig:LeftFoot
+    100090: mixamorig:LeftForeArm
+    100092: mixamorig:LeftHand
+    100094: mixamorig:LeftLeg
+    100096: mixamorig:LeftShoulder
+    100098: mixamorig:LeftToe_End
+    100100: mixamorig:LeftToeBase
+    100102: mixamorig:LeftUpLeg
+    100104: mixamorig:Neck
+    100106: mixamorig:RightArm
+    100108: mixamorig:RightFoot
+    100110: mixamorig:RightForeArm
+    100112: mixamorig:RightHand
+    100114: mixamorig:RightLeg
+    100116: mixamorig:RightShoulder
+    100118: mixamorig:RightToe_End
+    100120: mixamorig:RightToeBase
+    100122: mixamorig:RightUpLeg
+    100124: mixamorig:Spine
+    100126: mixamorig:Spine1
+    100128: mixamorig:Spine2
+    100130: //RootNode
+    100132: teeth
+    100134: tongue
+    400000: Blake
+    400002: Character_Ctrl:ChestEndEffector
+    400004: Character_Ctrl:ChestOriginEffector
+    400006: Character_Ctrl:Head
+    400008: Character_Ctrl:HeadEffector
+    400010: Character_Ctrl:Hips
+    400012: Character_Ctrl:HipsEffector
+    400014: Character_Ctrl:LeftAnkleEffector
+    400016: Character_Ctrl:LeftArm
+    400018: Character_Ctrl:LeftElbowEffector
+    400020: Character_Ctrl:LeftFoot
+    400022: Character_Ctrl:LeftForeArm
+    400024: Character_Ctrl:LeftHand
+    400026: Character_Ctrl:LeftHipEffector
+    400028: Character_Ctrl:LeftKneeEffector
+    400030: Character_Ctrl:LeftLeg
+    400032: Character_Ctrl:LeftShoulder
+    400034: Character_Ctrl:LeftShoulderEffector
+    400036: Character_Ctrl:LeftUpLeg
+    400038: Character_Ctrl:LeftWristEffector
+    400040: Character_Ctrl:Neck
+    400042: Character_Ctrl:Reference
+    400044: Character_Ctrl:RightAnkleEffector
+    400046: Character_Ctrl:RightArm
+    400048: Character_Ctrl:RightElbowEffector
+    400050: Character_Ctrl:RightFoot
+    400052: Character_Ctrl:RightForeArm
+    400054: Character_Ctrl:RightHand
+    400056: Character_Ctrl:RightHipEffector
+    400058: Character_Ctrl:RightKneeEffector
+    400060: Character_Ctrl:RightLeg
+    400062: Character_Ctrl:RightShoulder
+    400064: Character_Ctrl:RightShoulderEffector
+    400066: Character_Ctrl:RightUpLeg
+    400068: Character_Ctrl:RightWristEffector
+    400070: Character_Ctrl:Spine
+    400072: Character_Ctrl:Spine1
+    400074: Character_Ctrl:Spine2
+    400076: eyes
+    400078: inner_mouth
+    400080: mixamorig:Head
+    400082: mixamorig:HeadTop_End
+    400084: mixamorig:Hips
+    400086: mixamorig:LeftArm
+    400088: mixamorig:LeftFoot
+    400090: mixamorig:LeftForeArm
+    400092: mixamorig:LeftHand
+    400094: mixamorig:LeftLeg
+    400096: mixamorig:LeftShoulder
+    400098: mixamorig:LeftToe_End
+    400100: mixamorig:LeftToeBase
+    400102: mixamorig:LeftUpLeg
+    400104: mixamorig:Neck
+    400106: mixamorig:RightArm
+    400108: mixamorig:RightFoot
+    400110: mixamorig:RightForeArm
+    400112: mixamorig:RightHand
+    400114: mixamorig:RightLeg
+    400116: mixamorig:RightShoulder
+    400118: mixamorig:RightToe_End
+    400120: mixamorig:RightToeBase
+    400122: mixamorig:RightUpLeg
+    400124: mixamorig:Spine
+    400126: mixamorig:Spine1
+    400128: mixamorig:Spine2
+    400130: //RootNode
+    400132: teeth
+    400134: tongue
+    4300000: inner_mouth
+    4300002: teeth
+    4300004: Blake
+    4300006: eyes
+    4300008: tongue
+    7400000: T_Pose
+    9500000: //RootNode
+    13700000: Blake
+    13700002: eyes
+    13700004: inner_mouth
+    13700006: teeth
+    13700008: tongue
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

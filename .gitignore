@@ -1,0 +1,11 @@
+# folders
+ProjectSettings
+Library
+obj
+
+# files
+animations_all_export.fbx
+Assembly-CSharp.csproj
+hero_Tpose.fbx
+ShadowRunner.sln
+ShadowRunner.userprefs
