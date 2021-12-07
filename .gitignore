@@ -9,3 +9,5 @@ Assembly-CSharp.csproj
 hero_Tpose.fbx
 ShadowRunner.sln
 ShadowRunner.userprefs
+
+*.meta
